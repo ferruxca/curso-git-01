@@ -2,10 +2,6 @@
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
-## Notas
-Pueden hacer lo que quieran...
+# Cambios locales
 
-## Edición desde Github
-Este archivo fue modificado desde github.
-
-Archivo modificado en la nube
+Siguiendo con los ejemplos hago cambios de manera local.
