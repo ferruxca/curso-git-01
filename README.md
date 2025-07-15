@@ -2,14 +2,6 @@
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
-# Cambios locales
+# Cambios para un conflicto
 
-Siguiendo con los ejemplos hago cambios de manera local.
-
-## Cambios de manera local
-
-Estos cambios se realizan después de modificar el archivo desde github, todo para realizar un conflicto. (Linea local)
-
-# Cambios desde github
-
-Ejemplo para invocar un conflicto. (Esta línea es en github)
+Aplicaremos un pull rebase de manera local, este cambio del archivo se ejecuta desde github
