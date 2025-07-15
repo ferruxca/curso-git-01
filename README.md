@@ -9,3 +9,7 @@ Siguiendo con los ejemplos hago cambios de manera local.
 ## Cambios de manera local
 
 Estos cambios se realizan después de modificar el archivo desde github, todo para realizar un conflicto. (Linea local)
+
+# Cambios desde github
+
+Ejemplo para invocar un conflicto. (Esta línea es en github)
